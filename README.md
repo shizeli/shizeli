@@ -17,4 +17,4 @@ Here are some ideas to get you started:
   <img src="https://static.jojowiki.com/images/2/2e/latest/20210220203731/Rohan_Kishibe_Infobox_Manga.png" alt="kishiberohan">
 </p>
 <h3 align="center">杜王町出身の情熱的なソフトウェア・エンジニア</h3>
-<p align="center">![Profile views](https://komarev.com/ghpvc/?username=shizeli&color=e06710&style=for-the-badge&label=GOTCHA&abbreviated=true)</p>
+![Profile views](https://komarev.com/ghpvc/?username=shizeli&color=e06710&style=for-the-badge&label=GOTCHA&abbreviated=true)
