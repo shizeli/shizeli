@@ -14,8 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="center">Hi 👋, I'm 岸辺 露伴</h1>
+<h1 align="center">こんにちは👋、岸辺露伴です。</h1>
 <p align="center">
   <img src="https://static.jojowiki.com/images/2/2e/latest/20210220203731/Rohan_Kishibe_Infobox_Manga.png" alt="kishiberohan">
 </p>
-<h3 align="center">A passionate software engineer from 杜王町</h3>
+<h3 align="center">杜王町出身の情熱的なソフトウェア・エンジニア</h3>
